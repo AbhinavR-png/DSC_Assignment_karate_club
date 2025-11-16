@@ -4,5 +4,4 @@ The code discusses the modularity regulations of the Karate club graph from netw
 
 Attribution:The modularity objective, modularity matrix B, and spectral bipartition method are
 based on standard results; see Newman (2006), “Modularity and community structure in
-networks,” PNAS 103(23):8577–8582. We cite it in the References and you must cite it
-in your report when you describe your method.
+networks,” PNAS 103(23):8577–8582.
